@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'quicksand';
+    src: url('font/Quicksand-Regular.otf'); 
+}
+
+body{
+    font-family: 'quicksand';
+}
+
+body{
+    color: whitesmoke;
+}
+
+body{
+    background-image: url(Hydrangeas.jpg);
+}
+
+h1{
+    color:rgb(39, 12, 197);
+    text-align: center;
+}
+
+h2{
+    border: 6px darkblue groove;
+    box-shadow: black 9px 9px 6px;
+}
