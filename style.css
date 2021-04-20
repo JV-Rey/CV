@@ -49,3 +49,17 @@ h2{
     border: 6px darkblue groove;
     box-shadow: black 9px 9px 6px;
 }
+
+@media screen and (max-width: 1024px)
+{
+    #liseret{
+        display: none;
+    }
+
+    section{
+        display: flex;
+        flex-direction: column;
+        width: auto;
+        clear: both;
+    }
+}
